@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=black&height=200&section=header&text=profile%20render&fontSize=90)
 ##
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 
 
 <!--
