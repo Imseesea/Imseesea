@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=black&height=200&section=header&text=profile%20render&fontSize=90)
-### 
+##
+<img src="https://img.shields.io/badge/javascript-3178C6?style=flat&logo=javascript&logoColor=F7DF1E"/>
+
 
 <!--
 **Imseesea/Imseesea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
