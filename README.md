@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=black&height=200&section=header&text=profile%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=black&height=200&section=header&text=profile%20render&fontSize=90)
 ### 
 
 <!--
