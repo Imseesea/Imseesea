@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=profile%20render&fontSize=90)
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=black&height=200&section=header&text=profile%20render&fontSize=90)
+### 
 
 <!--
 **Imseesea/Imseesea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
